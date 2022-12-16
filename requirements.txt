@@ -1,0 +1,6 @@
+pandas==1.5.2
+plotly-express==0.4.1
+folium==0.14.0
+streamlit==1.16.0
+streamlit-folium==0.8.1
+inflection==0.5.1
